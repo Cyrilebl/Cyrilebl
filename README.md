@@ -21,5 +21,6 @@
 		]);
 	}
 }
+```
 
 ## :heart: Technologies I love
