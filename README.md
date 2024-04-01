@@ -1,15 +1,6 @@
-  _  _ _     _ _   _      ___           _ 
- | || (_)   (_) |_( )___ | __| _ ___ __| |
- | __ | |_  | |  _|/(_-< | _| '_/ -_) _` |
- |_||_|_( ) |_|\__| /__/ |_||_| \___\__,_|
-        |/    
-	
-
 <h1>This is me breaking into the programming world...</h1>
  
-
-
-class User {
+<script>class User {
 	name = "Cyril";
 	currentWork = "Writing code";
 	hobbies = [
@@ -26,4 +17,4 @@ class User {
 			learnNewLanguage()
 		]);
 	}
-}
+} </script>
