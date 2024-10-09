@@ -12,10 +12,6 @@ class User {
     return "Toulouse, France";
   }
 
-  getSkills() {
-    return ["JavaScript", "React.js", "Tailwind CSS", "Express.js"];
-  }
-
   getLanguages() {
     return ["French", "Spanish", "English", "Italian"];
   }
