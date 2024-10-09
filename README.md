@@ -48,7 +48,7 @@ class User {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  style="filter: invert(100%) brightness(1000%)"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
@@ -57,7 +57,7 @@ class User {
 
 <h3>📫 How to Reach Me</h3>
 <ul>
-<li><a href="https://portfolio-cyrileblanc.netlify.app/" target="_blank" style="color:#ff69b4">My portfolio</a></li>
+<li><a href="https://portfolio-cyrileblanc.netlify.app/" target="_blank">My portfolio</a></li>
 </ul>
 
 <h3>🗺️ Fun Facts</h3>
