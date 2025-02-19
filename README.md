@@ -26,8 +26,6 @@ class User {
 
 #### Backend
 
-#### Backend
-
 <p>
 <img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /> 
 <img alt="Flask Badge" src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=000000" /> 
