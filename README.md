@@ -59,7 +59,7 @@ class User {
 
 ### 📫 How to Reach Me
 
-- [My portfolio](https://www.cyril-leblanc.com)
+- [My portfolio](https://softelys.com.mx)
 
 ### 🗺️ Fun Facts
 
